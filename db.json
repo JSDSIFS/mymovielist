@@ -1,0 +1,25 @@
+{
+	"data": [{
+			"id": "1",
+			"title": "They Remain",
+			"year": "2018",
+			"genres": ["Thriller"]
+		},
+		{
+			"id": "2",
+			"title": "Beast of Burden",
+			"year": "2018",
+			"genres": ["Action", "Thriller", "Drama"]
+		},
+		{
+			"id": "3",
+			"title": "The Lodgers",
+			"year": "2017",
+			"genres": [
+				"Drama",
+				"Horror",
+				"Romance"
+			]
+		}		
+	]
+}
